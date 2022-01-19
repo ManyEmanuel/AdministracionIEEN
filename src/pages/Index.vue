@@ -6,6 +6,7 @@
       :todos="todos"
       :meta="meta"
     ></example-component>
+    <label>Hola</label>
   </q-page>
 </template>
 
